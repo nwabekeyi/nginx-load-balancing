@@ -146,7 +146,7 @@ wrk --version
 Clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nginx-load-balancing.git
+git clone https://github.com/nwabekeyi/nginx-load-balancing.git
 ```
 
 Enter the project:
